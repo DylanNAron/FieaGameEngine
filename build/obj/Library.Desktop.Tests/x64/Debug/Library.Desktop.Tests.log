@@ -1,0 +1,27 @@
+﻿  pch.cpp
+  ActionTests.cpp
+  AttributedFoo.cpp
+  AttributedTests.cpp
+  DatumTests.cpp
+  DefaultHashTests.cpp
+  EventTests.cpp
+  FactoryTests.cpp
+  Foo.cpp
+  FooSubscriber.cpp
+  FooTests.cpp
+  GameObjectTests.cpp
+  HashmapTests.cpp
+  JsonParseIntegerHelper.cpp
+  JsonParseTestHelper.cpp
+  ParseCoordinatorTests.cpp
+  ReactionTests.cpp
+  ScopeTests.cpp
+  SListTests.cpp
+  TestModuleInitialize.cpp
+  TestSubscriber.cpp
+  Generating Code...
+  Compiling...
+  VectorTests.cpp
+  Generating Code...
+     Creating library C:\Dev\Students\CH19\Dylan.Aron\Prog2\build\bin\Library.Desktop.Tests\x64\Debug\Library.Desktop.Tests.lib and object C:\Dev\Students\CH19\Dylan.Aron\Prog2\build\bin\Library.Desktop.Tests\x64\Debug\Library.Desktop.Tests.exp
+  Library.Desktop.Tests.vcxproj -> C:\Dev\Students\CH19\Dylan.Aron\Prog2\build\bin\Library.Desktop.Tests\x64\Debug\Library.Desktop.Tests.dll

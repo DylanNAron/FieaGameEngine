@@ -1,0 +1,52 @@
+{
+  "AGameObject": {
+    "type": "table",
+    "class": "GameObject",
+    "value": [
+      {
+        "Health": {
+          "type": "integer",
+          "value": "100"
+        }
+      },
+      {
+        "Actions": [
+          {
+            "type": "table",
+            "class": "ActionListWhile",
+            "value": [
+              {
+                "Name": {
+                  "type": "string",
+                  "value": "WhileLoop"
+                }
+              },
+              {
+                "Actions": [
+                  {
+                    "type": "table",
+                    "class": "ActionIncrement",
+                    "value": [
+                      {
+                        "Name": {
+                          "type": "string",
+                          "value": "IamAnActionIncrement"
+                        }
+                      },
+                      {
+                        "Target": {
+                          "type": "string",
+                          "value": "Health"
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

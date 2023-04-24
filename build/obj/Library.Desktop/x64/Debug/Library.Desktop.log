@@ -1,0 +1,27 @@
+﻿  pch.cpp
+  Action.cpp
+  ActionEvent.cpp
+  ActionIncrement.cpp
+  ActionList.cpp
+  ActionListWhile.cpp
+  Attributed.cpp
+  Datum.cpp
+  EventMessageAttributed.cpp
+  EventPublisher.cpp
+  EventQueue.cpp
+  GameClock.cpp
+  GameObject.cpp
+  GameTime.cpp
+  IJsonParseHelper.cpp
+  JsonParseCoordinator.cpp
+  JsonTableParseHelper.cpp
+  Reaction.cpp
+  ReactionAttributed.cpp
+  RTTI.cpp
+  Scope.cpp
+  Generating Code...
+  Compiling...
+  TypeRegistry.cpp
+  World.cpp
+  Generating Code...
+  Library.Desktop.vcxproj -> C:\Dev\Students\CH19\Dylan.Aron\Prog2\build\bin\Library.Desktop\x64\Debug\Library.Desktop.lib

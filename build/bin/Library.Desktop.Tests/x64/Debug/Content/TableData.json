@@ -1,0 +1,87 @@
+{
+  "IntegerAttribute": {
+    "type": "integer",
+    "value": "100"
+  },
+  "IntegerAttributeArr": {
+    "type": "integer",
+    "value": [ "200", "300", "400" ]
+  },
+  "FloatAttribute": {
+    "type": "float",
+    "value": "1.5"
+  },
+  "FloatAttributeArr": {
+    "type": "float",
+    "value": [ "1.5", "2.5" ]
+  },
+  "VectorAttribute": {
+    "type": "vector",
+    "value": "vec4(1, 2, 3, 4)"
+  },
+  "VectorAttributeArr": {
+    "type": "vector",
+    "value": [ "vec4(1, 1, 1, 1)", "vec4(2, 2, 2, 2)" ]
+  },
+  "MatrixAttribute": {
+    "type": "matrix",
+    "value": "mat4((1,0,0,0), (0,1,0,0), (0,0,1,0), (0,0,0,1))"
+  },
+  "MatrixAttributeArr": {
+    "type": "matrix",
+    "value": [ "mat4((1,0,0,0), (0,1,0,0), (0,0,1,0), (0,0,0,1))", "mat4((2,0,0,0), (0,2,0,0), (0,0,2,0), (0,0,0,2))" ]
+  },
+  "NestedScope": {
+    "type": "table",
+    "value": {
+      "NestedIntegerAttribute": {
+        "type": "integer",
+        "value": "27"
+      }
+    }
+  },
+  "StringAttribute": {
+    "type": "string",
+    "value": "HelloWorld!"
+  },
+  "StringAttributeArr": {
+    "type": "string",
+    "value": [ "Hello", "World" ]
+  },
+  "NestedScopeArr": {
+    "type": "table",
+    "value": [
+      {
+        "TimmyTable": {
+          "type": "table",
+          "value": {
+            "TimmysInteger": {
+              "type": "integer",
+              "value": "72"
+            }
+          }
+        }
+      },
+      {
+        "TommyTable": {
+          "type": "table",
+          "value": {
+            "TommysInteger": {
+              "type": "integer",
+              "value": "43"
+            }
+          }
+        }
+      }
+
+    ]
+  },
+  "ExternalIntegerArray": {
+    "type": "integer",
+    "value": [ "7", "6", "5" ]
+  },
+  "ExternalInteger": {
+    "type": "integer",
+    "value": "62"
+  }
+}
