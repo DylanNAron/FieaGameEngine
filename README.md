@@ -20,5 +20,5 @@ Custom Data Driven game engine written in C++. Featuring custom implementations 
 ### Custom Implementation of STL Containers:
 Singly linked List, Vector, Hashmap, Stack
 
-### Carious Design Patterns Implemented:
+### Various Design Patterns Implemented:
 Singleton, Factory, Observer, Chain of Responsibility
