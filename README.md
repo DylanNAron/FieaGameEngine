@@ -22,3 +22,6 @@ Singly linked List, Vector, Hashmap, Stack
 
 ### Various Design Patterns Implemented:
 Singleton, Factory, Observer, Chain of Responsibility
+
+### Game Created using the Engine!
+Implemented a recreation of the game 'Kula World' with a group of people to utilize our game engine as well as the DirectXTK graphics framework to handle rendering 3D objects: https://dylanaron.itch.io/kula-world-recreation
